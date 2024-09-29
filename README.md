@@ -1,3 +1,3 @@
 # Cars boosting
 
-Here several gradient boosting libraries were used to solve a regression problem.
+Here several gradient boosting models were tried to solve a regression problem.
